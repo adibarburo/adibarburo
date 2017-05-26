@@ -1512,3 +1512,7 @@ span.toggler div {
     overflow: auto;
     padding: 1.5em
 }
+
+.contact-form-button {
+    height:none!important;
+}
