@@ -975,15 +975,15 @@ h2.site-descriptionnbt {
     box-shadow: 0 0 0 1px #cdd5b7
 }
 .hentry {
-margin: 0;
+margin-bottom: 17px;
 padding: 5px;
 }
 .entry-content {
     margin: 10px 0 0;
     padding: 0 1em;
-    font-size: 15.5px;
+    font-size: 15.4px;
     font-weight: 500;
-    line-height: 1.6;
+    line-height: 1.5;
     text-align: justify
 }
 .entry-content a {
