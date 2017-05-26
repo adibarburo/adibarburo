@@ -409,7 +409,7 @@ a:hover {
 }
 .separator-header:after {
     content: "|";
-    margin-left: 15px;
+    margin-left: 10px;
     margin-right: 20px;
 }
 @media all and (max-width: 725px) {
