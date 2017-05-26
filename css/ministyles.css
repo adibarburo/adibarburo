@@ -1516,3 +1516,9 @@ span.toggler div {
 .contact-form-button {
     height:none!important;
 }
+article h2
+{
+    color: #274e13;
+    font-weight: bold;
+    font-size: 1.19em
+}
