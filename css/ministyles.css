@@ -860,15 +860,15 @@ footer.entry-footer {
 #secondary .widget ul li {
     padding: .2em 0
 }
-h1.site-titlenbt {
+site-title {
     font-weight: 600;
     letter-spacing: 0;
     font-size: 40px;
-    font-family: Arial, sans-serif;
-    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    color: #fff!important;
 }
-h1.site-titlenbt a {
-    color: #fff;
+site-title a:link {
+    color: #fff!important;
 }
 .site-description {
     font-weight: 500;
@@ -1056,7 +1056,7 @@ object {
     .social-branding {
         width: 100%!important
     }
-    h1.site-titlenbt {
+    site-title {
         padding-bottom: 15px;
         padding-top: 15px
     }
