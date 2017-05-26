@@ -751,7 +751,7 @@ header.entry-header:before {
     margin-bottom: 10px;
     margin-left: 5px
 }
-#secondary .widget h2 {
+#secondary .widget .title {
     line-height: 1.8;
     font-size: 18px;
     color: #ca2129;
