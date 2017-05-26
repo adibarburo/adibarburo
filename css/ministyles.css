@@ -863,7 +863,7 @@ footer.entry-footer {
     font-family: "Arial", "Open Sans", sans-serif;
     color: #fff!important;
 }
-.site-title a:link {
+.site-title a{
     color: #fff!important;
 }
 .site-description {
