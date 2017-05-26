@@ -1032,8 +1032,6 @@ object {
         transform: none!important;
         top: 0!important;
         position: relative!important;
-        padding-bottom: 15px;
-    padding-bottom: 15px;
       float: none;
         text-align: center;
     }
@@ -1248,6 +1246,7 @@ h2.date-header {
 .ad1-space,
 .social-branding {
     padding-bottom: 5px;
+    padding-top: 5px;
     width: 70%;
     float: right;
    position: relative;
