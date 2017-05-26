@@ -1086,8 +1086,8 @@ object {
         text-align: center!important
     }
     .hentry {
-        margin: 0 0 10px;
-        padding: 5px
+            margin: 0;
+    padding: 9px;
     }
 }
 @media all and (max-width: 767px) {
