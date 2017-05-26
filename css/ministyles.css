@@ -147,7 +147,7 @@ q {
     quotes: "" ""
 }
 a:focus {
-    outline: dotted thin
+ 
 }
 a:active,
 a:hover {
@@ -402,11 +402,7 @@ a {
     -webkit-transition: color .2s ease-in-out;
     transition: color .2s ease-in-out
 }
-a:active,
-a:focus,
-a:hover {
-    color: #5687c3
-}
+
 .separator-header:after {
     content: "|";
     margin-left: 10px;
