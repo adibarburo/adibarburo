@@ -331,11 +331,11 @@ input[type=reset],
 input[type=submit] {
     border: 1px solid #36c1c8;
     border-radius: 4px;
-    background: #fff;
+    background: #36c1c8!important;
     cursor: pointer;
     -webkit-appearance: none;
     line-height: 20px;
-    padding: 20px 50px;
+    padding: 15px 30px;
     color: #000;
 }
 button:hover,
@@ -562,7 +562,7 @@ a:hover {
         width: 100%
     }
     .main-navigation a {
-        padding: .5em;
+        padding: .8em;
         color: #000;
         border-bottom: 1px solid rgba(0, 0, 0, .05)
     }
