@@ -331,11 +331,11 @@ input[type=reset],
 input[type=submit] {
     border: 1px solid #36c1c8;
     border-radius: 4px;
-    background: #36c1c8!important;
+    background: #F5F5F5;
     cursor: pointer;
     -webkit-appearance: none;
     line-height: 20px;
-    padding: 15px 30px;
+    padding: 15px 35px;
     color: #000;
 }
 button:hover,
