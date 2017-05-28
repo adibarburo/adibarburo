@@ -756,7 +756,6 @@ header.entry-header:before {
     font-size: 18px;
     color: #ca2129;
     text-transform: uppercase;
-    font-family: 'Fauna One';
     font-weight: 600;
     margin: 10px 0
 }
@@ -1521,4 +1520,18 @@ article h2
     color: #274e13;
     font-weight: bold;
     font-size: 1.19em
+}
+
+.center-text
+{
+    text-align: center;
+}
+.center-align
+{
+    margin: 0 auto;
+    text-align: center;
+}
+.adside
+{
+    padding-bottom:12px; padding-top:5px; padding-left:7px;
 }
