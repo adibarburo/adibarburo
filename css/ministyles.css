@@ -1535,3 +1535,9 @@ article h2
 {
     padding-bottom:12px; padding-top:5px; padding-left:7px;
 }
+.image-block
+{
+    text-align:center;
+    margin: 5px auto!important;
+    clear:both;
+}
