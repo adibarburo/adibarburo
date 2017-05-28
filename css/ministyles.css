@@ -837,11 +837,12 @@ header.page-header h1 span {
     letter-spacing: -1px
 }
 header.entry-header .entry-title {
-    font-size: 26px;
+    font-size: 25px;
     line-height: 1.4;
     margin-bottom: 10px;
     margin-right: 10px;
     font-weight: 500;
+    font-family: 'American Typewriter', Arial, 'Open Sans', mono-serif;
 }
 footer.entry-footer {
     padding-top: 5px
@@ -1094,7 +1095,7 @@ object {
         float: left
     }
     header.entry-header .entry-title {
-    font-size: 22px;
+    font-size: 24px;
     }
     #topcontrol,
     .menu-search-widget {
