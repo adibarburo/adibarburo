@@ -437,7 +437,7 @@ a {
     clear: both;
     float: left;
     width: 100%;
-    border-top: 1px solid #191970;
+    border-top: 1px solid #ca2129;
     padding-top: 1px;
     padding-left: 1px;
     padding-right: 1px
@@ -587,12 +587,12 @@ a {
     padding: 10px;
     color: #fff;
     border-top: 2px solid #ca2129;
-    letter-spacing: .2px;
+    letter-spacing: .1px;
     line-height: 40px
 }
 .footer-main {
-    font-family: 'Open Sans', self;
-    font-size: 12px
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif
+    font-size: 13px
 }
 .pre-header,
 .pre-header-main {
@@ -820,7 +820,7 @@ header.site-header {
     margin-right: 15px
 }
 .social-links a {
-    margin-left: 20px;
+    margin-left: 15px;
     color: #fff
 }
 .social-links a:hover {
@@ -1055,7 +1055,7 @@ object {
     }
     .site-branding {
         width: 100%;
-        padding-top: 10px;
+        padding-top: 0px;
         padding-bottom: 10px
     }
     .social-links {
@@ -1068,7 +1068,7 @@ object {
         width: 100%!important
     }
     .site-title {
-        padding-bottom: 15px;
+        padding-bottom: 10px;
         padding-top: 15px
     }
     #primary,
