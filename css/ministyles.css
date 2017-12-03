@@ -1475,8 +1475,8 @@ hr {
     background-color: #10162E!important;
     opacity: .97;
     filter: alpha(opacity=97);
-    bottom: 0!important;
-    top: auto!important;
+    top: 0!important;
+   
     padding: 2px 0!important
 }
 .cookie-choices-text {
