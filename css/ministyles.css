@@ -1476,18 +1476,14 @@ hr {
     border-bottom: 1px solid #565656;
     box-shadow: 0px 0px 0px #000!important;
     padding: 0px 0px!important;
-   text-align: left!important;
-  float: left!important;
-  margin: 0!important;
+    margin: 5px!important;
 }
 .cookie-choices-info .cookie-choices-text {  
   display: inline-block!important;
     vertical-align: middle!important;
     font-size: 11px!important;
     margin: 2px!important;
-    color: #ccc;
-    text-align: left!important;
-  float: left!important;
+    color: #000;
     line-height: 1.2!important
 }
 .cookie-choices-info .cookie-choices-button {
@@ -1496,7 +1492,7 @@ hr {
     font-size: 10px !important;
     color: #ffffff!important;
     box-shadow: 0px 0px 0px #000!important;
-    padding: 4px 10px!important;
+    padding: 2px 10px!important;
     text-transform: none!important;
 }
 .social_btns a {
