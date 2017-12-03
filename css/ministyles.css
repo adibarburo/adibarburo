@@ -1483,7 +1483,7 @@ hr {
     vertical-align: middle!important;
     font-size: 11px!important;
     margin: 5px!important;
-    color: #000;
+    color: #000!important;
     line-height: 1.2!important
 }
 .cookie-choices-info .cookie-choices-button {
