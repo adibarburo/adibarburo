@@ -1469,25 +1469,26 @@ hr {
 .subscribe-msg p {
     margin-bottom: 20px
 }
-#cookieChoiceInfo {
-    font-family: Verdana, Geneva, sans-serif;
-    font-size: 9px;
-    background-color: #10162E!important;
-    opacity: .97;
-    filter: alpha(opacity=97);
-    top: 0!important;
-   
-    padding: 2px 0!important
+
+.cookie-choices-info {
+    z-index: 999999!important;
+    background-color: #ffffff!important;
+    border-bottom: 1px solid #565656;
+    box-shadow: 0px 0px 0px #000!important;
+    padding: 0px 0px!important;
 }
-.cookie-choices-text {
-    display: inline-block;
-    vertical-align: middle;
-    font-size: 12px!important;
-    margin: 2px!important;
-    color: #ccc;
-    max-width: 800px;
-    text-align: left;
-    line-height: 1.25!important
+.cookie-choices-info .cookie-choices-text {
+    font-size: 12px !important;
+    color: #000000!important;
+}
+.cookie-choices-info .cookie-choices-button {
+    background-color: #000000!important;
+    border-radius: 0px!important;
+    font-size: 11px !important;
+    color: #ffffff!important;
+    box-shadow: 0px 0px 0px #000!important;
+    padding: 2px 5px!important;
+    text-transform: none!important;
 }
 .social_btns a {
     color: #888
