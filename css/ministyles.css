@@ -1476,6 +1476,9 @@ hr {
     border-bottom: 1px solid #565656;
     box-shadow: 0px 0px 0px #000!important;
     padding: 0px 0px!important;
+   text-align: left!important;
+  float: left!important;
+  margin: 0!important;
 }
 .cookie-choices-info .cookie-choices-text {  
   display: inline-block!important;
@@ -1483,14 +1486,14 @@ hr {
     font-size: 11px!important;
     margin: 2px!important;
     color: #ccc;
-    max-width: 800px;
-    text-align: left;
-    line-height: 1.25!important
+    text-align: left!important;
+  float: left!important;
+    line-height: 1.2!important
 }
 .cookie-choices-info .cookie-choices-button {
     background-color: #000000!important;
-    border-radius: 0px!important;
-    font-size: 11px !important;
+    border-radius: 1px!important;
+    font-size: 10px !important;
     color: #ffffff!important;
     box-shadow: 0px 0px 0px #000!important;
     padding: 4px 10px!important;
