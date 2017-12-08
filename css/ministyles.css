@@ -584,7 +584,7 @@ a {
 }
 .site-footer {
     background: #222;
-    padding: 10px;
+    padding: 0px;
     color: #fff;
     border-top: 2px solid #ca2129;
     letter-spacing: .1px;
