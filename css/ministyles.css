@@ -1182,10 +1182,14 @@ h2.date-header {
     padding: 10px 20px;
     margin-bottom: 20px
 }
-#blog-pager,
-.sharethisbutt {
+#blog-pager
+{
     padding: 10px;
     text-align: center
+}
+.sharethisbutt {
+    padding: 10px;
+    text-align: left
 }
 #comments h4 {
     font-size: 22px;
