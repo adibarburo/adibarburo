@@ -626,7 +626,7 @@ a {
     width: 40%;
     padding: 10px
 }
-@media all and (max-width: 1150px) {
+@media all and (max-width: 1100px) {
     .footer-main-left,
     .footer-main-right {
         float: left;
@@ -780,7 +780,7 @@ header.entry-header:before {
     line-height: 1.8
 }
 .page {
-    max-width: 1150px;
+    max-width: 1100px;
     margin: 0 auto
 }
 header.site-header {
