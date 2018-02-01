@@ -42,10 +42,10 @@
 			forceShow: false, //Force cookieBar to show regardless of user cookie preference
 			effect: 'slide', //Options: slide, fade, hide
 			element: '.site-footer .page', //Element to append/prepend cookieBar to. Remember "." for class or "#" for id.
-			append: false, //Set to true for cookieBar HTML to be placed at base of website. Actual position may change according to CSS
+			append: true, //Set to true for cookieBar HTML to be placed at base of website. Actual position may change according to CSS
 			fixed: true, //Set to true to add the class "fixed" to the cookie bar. Default CSS should fix the position
 			bottom: true, //Force CSS when fixed, so bar appears at bottom of website
-			zindex: '', //Can be set in CSS, although some may prefer to set here
+			zindex: '99999', //Can be set in CSS, although some may prefer to set here
 			domain: String(window.location.hostname), //Location of privacy policy
 			referrer: String(document.referrer) //Where visitor has come from
 		};
